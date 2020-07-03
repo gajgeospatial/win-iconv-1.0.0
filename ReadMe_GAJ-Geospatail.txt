@@ -1,0 +1,1 @@
+This project should be installed as ICONV_DIR with ProjectTool.
